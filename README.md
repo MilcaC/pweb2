@@ -1,1 +1,2 @@
-# pweb2
+# TEIN - BlazeFace
+Equipe: Milca Ellen e Lívia Maria
